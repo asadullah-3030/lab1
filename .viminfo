@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1747823750,,"wq!"
+|2,0,1747833056,,"wq!"
 :wwq!
 |2,0,1746969420,,"wwq!"
 :q!
@@ -90,34 +90,78 @@ $
 |3,0,36,0,1,0,1746965388,"f"
 
 # File marks:
-'0  1  42  ~/lab2
-|4,48,1,42,1747823750,"~/lab2"
-'1  1  29  ~/lab1
-|4,49,1,29,1747812615,"~/lab1"
-'2  1  31  ~/file2-git
-|4,50,1,31,1747655361,"~/file2-git"
-'3  2  0  ~/file1-git
-|4,51,2,0,1747653305,"~/file1-git"
-'4  15  0  /var/named/linux.rec
-|4,52,15,0,1747318218,"/var/named/linux.rec"
-'5  14  51  /var/named/linux.rec
-|4,53,14,51,1747318076,"/var/named/linux.rec"
-'6  14  51  /var/named/linux.rec
-|4,54,14,51,1747318076,"/var/named/linux.rec"
-'7  14  53  /var/named/linux.rec
-|4,55,14,53,1747318003,"/var/named/linux.rec"
-'8  14  53  /var/named/linux.rec
-|4,56,14,53,1747318003,"/var/named/linux.rec"
-'9  10  0  /var/named/linux.rec
-|4,57,10,0,1747317610,"/var/named/linux.rec"
+'0  1  47  ~/file3-git
+|4,48,1,47,1747833056,"~/file3-git"
+'1  2  54  ~/lab1
+|4,49,2,54,1747833005,"~/lab1"
+'2  1  42  ~/lab2
+|4,50,1,42,1747823750,"~/lab2"
+'3  1  29  ~/lab1
+|4,51,1,29,1747812615,"~/lab1"
+'4  1  29  ~/lab1
+|4,52,1,29,1747812615,"~/lab1"
+'5  1  31  ~/file2-git
+|4,53,1,31,1747655361,"~/file2-git"
+'6  2  0  ~/file1-git
+|4,54,2,0,1747653305,"~/file1-git"
+'7  15  0  /var/named/linux.rec
+|4,55,15,0,1747318218,"/var/named/linux.rec"
+'8  14  51  /var/named/linux.rec
+|4,56,14,51,1747318076,"/var/named/linux.rec"
+'9  14  51  /var/named/linux.rec
+|4,57,14,51,1747318076,"/var/named/linux.rec"
 
 # Jumplist (newest first):
+-'  1  47  ~/file3-git
+|4,39,1,47,1747833056,"~/file3-git"
+-'  2  54  ~/lab1
+|4,39,2,54,1747833005,"~/lab1"
+-'  2  54  ~/lab1
+|4,39,2,54,1747833005,"~/lab1"
+-'  1  29  ~/lab1
+|4,39,1,29,1747832988,"~/lab1"
+-'  1  29  ~/lab1
+|4,39,1,29,1747832988,"~/lab1"
+-'  1  42  ~/lab2
+|4,39,1,42,1747823750,"~/lab2"
+-'  1  42  ~/lab2
+|4,39,1,42,1747823750,"~/lab2"
+-'  1  42  ~/lab2
+|4,39,1,42,1747823750,"~/lab2"
 -'  1  42  ~/lab2
 |4,39,1,42,1747823750,"~/lab2"
 -'  1  29  ~/lab1
 |4,39,1,29,1747812615,"~/lab1"
 -'  1  29  ~/lab1
 |4,39,1,29,1747812615,"~/lab1"
+-'  1  29  ~/lab1
+|4,39,1,29,1747812615,"~/lab1"
+-'  1  29  ~/lab1
+|4,39,1,29,1747812615,"~/lab1"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
 -'  1  31  ~/file2-git
 |4,39,1,31,1747655361,"~/file2-git"
 -'  1  31  ~/file2-git
@@ -142,6 +186,102 @@ $
 |4,39,2,0,1747653305,"~/file1-git"
 -'  2  0  ~/file1-git
 |4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
 -'  1  0  ~/file1-git
 |4,39,1,0,1747653286,"~/file1-git"
 -'  1  0  ~/file1-git
@@ -172,148 +312,23 @@ $
 |4,39,15,0,1747318218,"/var/named/linux.rec"
 -'  15  0  /var/named/linux.rec
 |4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  15  0  /var/named/linux.rec
-|4,39,15,0,1747318218,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318081,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  51  /var/named/linux.rec
-|4,39,14,51,1747318076,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  14  53  /var/named/linux.rec
-|4,39,14,53,1747318003,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
 
 # History of marks within files (newest to oldest):
+
+> ~/file3-git
+	*	1747833055	0
+	"	1	47
+	^	1	48
+	.	1	47
+	+	1	47
+
+> ~/lab1
+	*	1747833003	0
+	"	2	54
+	^	2	55
+	.	2	54
+	+	1	29
+	+	2	54
 
 > ~/lab2
 	*	1747823748	0
@@ -321,13 +336,6 @@ $
 	^	1	43
 	.	1	42
 	+	1	42
-
-> ~/lab1
-	*	1747812614	0
-	"	1	29
-	^	1	30
-	.	1	29
-	+	1	29
 
 > ~/file2-git
 	*	1747655359	0
@@ -465,10 +473,3 @@ $
 	^	140	16
 	.	140	15
 	+	140	15
-
-> /etc/vsftpd/vsftpd.conf
-	*	1746364163	0
-	"	1	0
-	^	15	0
-	.	12	19
-	+	12	19
