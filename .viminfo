@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1747812615,,"wq!"
+|2,0,1747823750,,"wq!"
 :wwq!
 |2,0,1746969420,,"wwq!"
 :q!
@@ -90,34 +90,42 @@ $
 |3,0,36,0,1,0,1746965388,"f"
 
 # File marks:
-'0  1  29  ~/lab1
-|4,48,1,29,1747812615,"~/lab1"
-'1  1  31  ~/file2-git
-|4,49,1,31,1747655361,"~/file2-git"
-'2  2  0  ~/file1-git
-|4,50,2,0,1747653305,"~/file1-git"
-'3  15  0  /var/named/linux.rec
-|4,51,15,0,1747318218,"/var/named/linux.rec"
-'4  14  51  /var/named/linux.rec
-|4,52,14,51,1747318076,"/var/named/linux.rec"
+'0  1  42  ~/lab2
+|4,48,1,42,1747823750,"~/lab2"
+'1  1  29  ~/lab1
+|4,49,1,29,1747812615,"~/lab1"
+'2  1  31  ~/file2-git
+|4,50,1,31,1747655361,"~/file2-git"
+'3  2  0  ~/file1-git
+|4,51,2,0,1747653305,"~/file1-git"
+'4  15  0  /var/named/linux.rec
+|4,52,15,0,1747318218,"/var/named/linux.rec"
 '5  14  51  /var/named/linux.rec
 |4,53,14,51,1747318076,"/var/named/linux.rec"
-'6  14  53  /var/named/linux.rec
-|4,54,14,53,1747318003,"/var/named/linux.rec"
+'6  14  51  /var/named/linux.rec
+|4,54,14,51,1747318076,"/var/named/linux.rec"
 '7  14  53  /var/named/linux.rec
 |4,55,14,53,1747318003,"/var/named/linux.rec"
-'8  10  0  /var/named/linux.rec
-|4,56,10,0,1747317610,"/var/named/linux.rec"
+'8  14  53  /var/named/linux.rec
+|4,56,14,53,1747318003,"/var/named/linux.rec"
 '9  10  0  /var/named/linux.rec
 |4,57,10,0,1747317610,"/var/named/linux.rec"
 
 # Jumplist (newest first):
+-'  1  42  ~/lab2
+|4,39,1,42,1747823750,"~/lab2"
+-'  1  29  ~/lab1
+|4,39,1,29,1747812615,"~/lab1"
 -'  1  29  ~/lab1
 |4,39,1,29,1747812615,"~/lab1"
 -'  1  31  ~/file2-git
 |4,39,1,31,1747655361,"~/file2-git"
 -'  1  31  ~/file2-git
 |4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
+-'  1  31  ~/file2-git
+|4,39,1,31,1747655361,"~/file2-git"
 -'  2  0  ~/file1-git
 |4,39,2,0,1747653305,"~/file1-git"
 -'  2  0  ~/file1-git
@@ -126,6 +134,22 @@ $
 |4,39,2,0,1747653305,"~/file1-git"
 -'  2  0  ~/file1-git
 |4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  2  0  ~/file1-git
+|4,39,2,0,1747653305,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
+-'  1  0  ~/file1-git
+|4,39,1,0,1747653286,"~/file1-git"
 -'  1  0  ~/file1-git
 |4,39,1,0,1747653286,"~/file1-git"
 -'  1  0  ~/file1-git
@@ -150,6 +174,38 @@ $
 |4,39,15,0,1747318218,"/var/named/linux.rec"
 -'  15  0  /var/named/linux.rec
 |4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  15  0  /var/named/linux.rec
+|4,39,15,0,1747318218,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318081,"/var/named/linux.rec"
 -'  14  51  /var/named/linux.rec
 |4,39,14,51,1747318081,"/var/named/linux.rec"
 -'  14  51  /var/named/linux.rec
@@ -182,6 +238,38 @@ $
 |4,39,14,51,1747318076,"/var/named/linux.rec"
 -'  14  51  /var/named/linux.rec
 |4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  51  /var/named/linux.rec
+|4,39,14,51,1747318076,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
+-'  14  53  /var/named/linux.rec
+|4,39,14,53,1747318003,"/var/named/linux.rec"
 -'  14  53  /var/named/linux.rec
 |4,39,14,53,1747318003,"/var/named/linux.rec"
 -'  14  53  /var/named/linux.rec
@@ -224,96 +312,15 @@ $
 |4,39,10,0,1747317631,"/var/named/linux.rec"
 -'  10  0  /var/named/linux.rec
 |4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317631,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  10  0  /var/named/linux.rec
-|4,39,10,0,1747317610,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
--'  1  0  /var/named/linux.rec
-|4,39,1,0,1747317572,"/var/named/linux.rec"
 
 # History of marks within files (newest to oldest):
+
+> ~/lab2
+	*	1747823748	0
+	"	1	42
+	^	1	43
+	.	1	42
+	+	1	42
 
 > ~/lab1
 	*	1747812614	0
@@ -465,7 +472,3 @@ $
 	^	15	0
 	.	12	19
 	+	12	19
-
-> /tmp/crontab.P64YPl
-	*	1746112207	0
-	"	1	0
